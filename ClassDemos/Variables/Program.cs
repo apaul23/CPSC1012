@@ -29,7 +29,7 @@ namespace Variables
             decimal myHeight;
             decimal BMI = 0.0m;
 
-            const decimal Imperial_BMI_Value = 703;
+            const decimal Imperial_BMI_Value = 703; // you CANNOT change the value of a constant 
 
             //numerical numbers need to match the variable data type
             // integers hae no decimal places
